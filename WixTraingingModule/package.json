@@ -1,0 +1,9 @@
+{
+  "name": "wix-trainging-module",
+  "version": "0.0.0",
+  "description": "WixTraingingModule",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
